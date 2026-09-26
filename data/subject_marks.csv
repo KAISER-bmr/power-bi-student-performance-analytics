@@ -1,0 +1,1041 @@
+Student_ID,Subject_Name,Semester,Internal_Marks,External_Marks,Total_Marks,Grade,Result_Status
+STU0001,Microprocessors,8,27,36,63,B+,Pass
+STU0001,Communication Systems,8,29,39,68,B+,Pass
+STU0002,Database Management Systems,3,32,40,72,A,Pass
+STU0002,Data Structures,3,26,45,71,A,Pass
+STU0003,Database Management Systems,1,15,26,41,C,Fail
+STU0003,Computer Networks,1,18,16,34,F,Fail
+STU0004,Digital Electronics,6,15,23,38,F,Fail
+STU0004,Communication Systems,6,16,30,46,C,Pass
+STU0005,Computer Networks,1,26,37,63,B+,Pass
+STU0005,Database Management Systems,1,20,37,57,B,Pass
+STU0006,Web Technologies,4,28,32,60,B+,Pass
+STU0006,Computer Networks,4,24,32,56,B,Pass
+STU0007,Microprocessors,8,22,36,58,B,Pass
+STU0007,Communication Systems,8,29,36,65,B+,Pass
+STU0008,Microprocessors,8,19,28,47,C,Pass
+STU0008,Digital Electronics,8,17,31,48,C,Pass
+STU0009,Database Management Systems,7,31,43,74,A,Pass
+STU0009,Data Structures,7,26,54,80,A+,Pass
+STU0010,Probability & Statistics,3,24,42,66,B+,Pass
+STU0010,Data Structures,3,33,46,79,A,Pass
+STU0011,Database Management Systems,6,33,55,88,A+,Pass
+STU0011,Machine Learning,6,28,45,73,A,Pass
+STU0012,Database Management Systems,5,21,24,45,C,Pass
+STU0012,Software Engineering,5,19,30,49,C,Pass
+STU0013,Digital Electronics,4,16,25,41,C,Pass
+STU0013,Microprocessors,4,19,15,34,F,Fail
+STU0014,Software Engineering,5,12,26,38,F,Fail
+STU0014,Web Technologies,5,15,17,32,F,Fail
+STU0015,Database Management Systems,1,27,32,59,B,Pass
+STU0015,Data Structures,1,22,36,58,B,Pass
+STU0016,Data Structures,2,25,32,57,B,Pass
+STU0016,Operating Systems,2,26,36,62,B+,Pass
+STU0017,Machine Learning,4,21,35,56,B,Pass
+STU0017,Python Programming,4,22,41,63,B+,Pass
+STU0018,Data Structures,2,27,30,57,B,Pass
+STU0018,Operating Systems,2,26,27,53,B,Pass
+STU0019,Computer Networks,2,22,38,60,B+,Pass
+STU0019,Database Management Systems,2,32,34,66,B+,Pass
+STU0020,Artificial Intelligence,7,12,20,32,F,Fail
+STU0020,Machine Learning,7,9,14,23,F,Fail
+STU0021,Microprocessors,8,15,27,42,C,Fail
+STU0021,Communication Systems,8,21,25,46,C,Pass
+STU0022,Data Structures,6,22,42,64,B+,Pass
+STU0022,Probability & Statistics,6,21,31,52,B,Pass
+STU0023,Database Management Systems,7,19,30,49,C,Pass
+STU0023,Computer Networks,7,24,22,46,C,Fail
+STU0024,Web Technologies,7,14,34,48,C,Fail
+STU0024,Database Management Systems,7,16,33,49,C,Pass
+STU0025,Signals & Systems,2,20,33,53,B,Pass
+STU0025,Digital Electronics,2,19,27,46,C,Pass
+STU0026,Database Management Systems,3,21,43,64,B+,Pass
+STU0026,Computer Networks,3,21,34,55,B,Pass
+STU0027,Artificial Intelligence,4,26,52,78,A,Pass
+STU0027,Python Programming,4,31,52,83,A+,Pass
+STU0028,Computer Networks,1,25,39,64,B+,Pass
+STU0028,Database Management Systems,1,27,42,69,B+,Pass
+STU0029,Data Structures,5,19,30,49,C,Pass
+STU0029,Operating Systems,5,28,31,59,B,Pass
+STU0030,Signals & Systems,3,13,26,39,F,Fail
+STU0030,Communication Systems,3,10,20,30,F,Fail
+STU0031,Communication Systems,3,18,23,41,C,Fail
+STU0031,Signals & Systems,3,13,15,28,F,Fail
+STU0032,Computer Networks,2,15,23,38,F,Fail
+STU0032,Software Engineering,2,15,19,34,F,Fail
+STU0033,Data Structures,2,27,39,66,B+,Pass
+STU0033,Probability & Statistics,2,21,31,52,B,Pass
+STU0034,Machine Learning,8,24,36,60,B+,Pass
+STU0034,Data Structures,8,26,46,72,A,Pass
+STU0035,Data Structures,2,24,30,54,B,Pass
+STU0035,Machine Learning,2,27,42,69,B+,Pass
+STU0036,Data Structures,1,24,39,63,B+,Pass
+STU0036,Operating Systems,1,25,40,65,B+,Pass
+STU0037,Database Management Systems,4,15,33,48,C,Fail
+STU0037,Operating Systems,4,20,33,53,B,Pass
+STU0038,Artificial Intelligence,4,25,25,50,B,Pass
+STU0038,Python Programming,4,18,39,57,B,Pass
+STU0039,Computer Networks,6,28,28,56,B,Pass
+STU0039,Data Structures,6,20,41,61,B+,Pass
+STU0040,Communication Systems,4,20,31,51,B,Pass
+STU0040,Signals & Systems,4,15,17,32,F,Fail
+STU0041,Data Structures,2,30,55,85,A+,Pass
+STU0041,Machine Learning,2,33,52,85,A+,Pass
+STU0042,Database Management Systems,2,22,29,51,B,Pass
+STU0042,Software Engineering,2,22,37,59,B,Pass
+STU0043,Communication Systems,8,23,45,68,B+,Pass
+STU0043,Digital Electronics,8,17,37,54,B,Pass
+STU0044,Database Management Systems,6,24,28,52,B,Pass
+STU0044,Probability & Statistics,6,19,35,54,B,Pass
+STU0045,Database Management Systems,6,21,40,61,B+,Pass
+STU0045,Computer Networks,6,21,18,39,F,Fail
+STU0046,Digital Electronics,5,17,14,31,F,Fail
+STU0046,Microprocessors,5,19,39,58,B,Pass
+STU0047,Machine Learning,5,12,28,40,C,Fail
+STU0047,Database Management Systems,5,16,24,40,C,Pass
+STU0048,Data Structures,2,24,41,65,B+,Pass
+STU0048,Machine Learning,2,24,36,60,B+,Pass
+STU0049,Microprocessors,3,11,26,37,F,Fail
+STU0049,Signals & Systems,3,9,18,27,F,Fail
+STU0050,Computer Networks,5,14,37,51,B,Fail
+STU0050,Database Management Systems,5,23,25,48,C,Pass
+STU0051,Operating Systems,4,12,30,42,C,Fail
+STU0051,Computer Networks,4,18,28,46,C,Pass
+STU0052,Computer Networks,8,19,28,47,C,Pass
+STU0052,Database Management Systems,8,24,33,57,B,Pass
+STU0053,Signals & Systems,4,21,31,52,B,Pass
+STU0053,Digital Electronics,4,20,47,67,B+,Pass
+STU0054,Digital Electronics,5,29,43,72,A,Pass
+STU0054,Microprocessors,5,24,37,61,B+,Pass
+STU0055,Digital Electronics,7,17,35,52,B,Pass
+STU0055,Communication Systems,7,19,26,45,C,Pass
+STU0056,Signals & Systems,4,17,38,55,B,Pass
+STU0056,Microprocessors,4,21,30,51,B,Pass
+STU0057,Database Management Systems,8,16,29,45,C,Pass
+STU0057,Data Structures,8,15,22,37,F,Fail
+STU0058,Python Programming,5,27,31,58,B,Pass
+STU0058,Data Structures,5,25,33,58,B,Pass
+STU0059,Computer Networks,8,27,47,74,A,Pass
+STU0059,Database Management Systems,8,26,36,62,B+,Pass
+STU0060,Computer Networks,3,26,33,59,B,Pass
+STU0060,Database Management Systems,3,28,53,81,A+,Pass
+STU0061,Communication Systems,4,16,31,47,C,Pass
+STU0061,Microprocessors,4,13,19,32,F,Fail
+STU0062,Machine Learning,6,23,45,68,B+,Pass
+STU0062,Artificial Intelligence,6,31,42,73,A,Pass
+STU0063,Machine Learning,2,17,23,40,C,Fail
+STU0063,Python Programming,2,17,31,48,C,Pass
+STU0064,Communication Systems,4,22,24,46,C,Pass
+STU0064,Digital Electronics,4,17,26,43,C,Pass
+STU0065,Machine Learning,7,28,43,71,A,Pass
+STU0065,Data Structures,7,28,43,71,A,Pass
+STU0066,Machine Learning,5,27,44,71,A,Pass
+STU0066,Artificial Intelligence,5,34,46,80,A+,Pass
+STU0067,Python Programming,1,28,29,57,B,Pass
+STU0067,Machine Learning,1,20,41,61,B+,Pass
+STU0068,Database Management Systems,4,28,32,60,B+,Pass
+STU0068,Probability & Statistics,4,17,22,39,F,Fail
+STU0069,Operating Systems,2,12,12,24,F,Fail
+STU0069,Database Management Systems,2,8,17,25,F,Fail
+STU0070,Machine Learning,2,11,22,33,F,Fail
+STU0070,Probability & Statistics,2,9,24,33,F,Fail
+STU0071,Database Management Systems,7,26,44,70,A,Pass
+STU0071,Computer Networks,7,26,37,63,B+,Pass
+STU0072,Data Structures,3,22,30,52,B,Pass
+STU0072,Machine Learning,3,27,35,62,B+,Pass
+STU0073,Software Engineering,4,15,24,39,F,Fail
+STU0073,Web Technologies,4,20,32,52,B,Pass
+STU0074,Data Structures,6,29,41,70,A,Pass
+STU0074,Database Management Systems,6,23,35,58,B,Pass
+STU0075,Operating Systems,2,21,48,69,B+,Pass
+STU0075,Data Structures,2,28,48,76,A,Pass
+STU0076,Data Structures,3,30,40,70,A,Pass
+STU0076,Probability & Statistics,3,35,40,75,A,Pass
+STU0077,Machine Learning,5,31,36,67,B+,Pass
+STU0077,Database Management Systems,5,31,54,85,A+,Pass
+STU0078,Communication Systems,6,31,44,75,A,Pass
+STU0078,Signals & Systems,6,22,35,57,B,Pass
+STU0079,Artificial Intelligence,8,21,28,49,C,Pass
+STU0079,Data Structures,8,21,27,48,C,Pass
+STU0080,Digital Electronics,5,22,39,61,B+,Pass
+STU0080,Signals & Systems,5,16,30,46,C,Pass
+STU0081,Communication Systems,4,30,38,68,B+,Pass
+STU0081,Microprocessors,4,29,33,62,B+,Pass
+STU0082,Machine Learning,5,19,24,43,C,Pass
+STU0082,Database Management Systems,5,22,30,52,B,Pass
+STU0083,Digital Electronics,7,30,49,79,A,Pass
+STU0083,Microprocessors,7,31,52,83,A+,Pass
+STU0084,Operating Systems,6,30,35,65,B+,Pass
+STU0084,Data Structures,6,32,39,71,A,Pass
+STU0085,Database Management Systems,8,27,47,74,A,Pass
+STU0085,Computer Networks,8,22,32,54,B,Pass
+STU0086,Data Structures,8,23,41,64,B+,Pass
+STU0086,Computer Networks,8,23,34,57,B,Pass
+STU0087,Signals & Systems,7,31,39,70,A,Pass
+STU0087,Communication Systems,7,29,38,67,B+,Pass
+STU0088,Machine Learning,2,26,41,67,B+,Pass
+STU0088,Python Programming,2,29,45,74,A,Pass
+STU0089,Computer Networks,6,12,13,25,F,Fail
+STU0089,Data Structures,6,13,15,28,F,Fail
+STU0090,Python Programming,4,36,45,81,A+,Pass
+STU0090,Artificial Intelligence,4,29,47,76,A,Pass
+STU0091,Database Management Systems,5,22,24,46,C,Pass
+STU0091,Operating Systems,5,23,23,46,C,Fail
+STU0092,Signals & Systems,6,16,24,40,C,Pass
+STU0092,Communication Systems,6,27,39,66,B+,Pass
+STU0093,Database Management Systems,8,19,34,53,B,Pass
+STU0093,Probability & Statistics,8,20,30,50,B,Pass
+STU0094,Database Management Systems,8,27,45,72,A,Pass
+STU0094,Data Structures,8,30,52,82,A+,Pass
+STU0095,Database Management Systems,3,21,35,56,B,Pass
+STU0095,Probability & Statistics,3,18,25,43,C,Pass
+STU0096,Machine Learning,6,20,38,58,B,Pass
+STU0096,Python Programming,6,26,40,66,B+,Pass
+STU0097,Database Management Systems,5,21,34,55,B,Pass
+STU0097,Data Structures,5,22,36,58,B,Pass
+STU0098,Operating Systems,3,29,50,79,A,Pass
+STU0098,Computer Networks,3,29,45,74,A,Pass
+STU0099,Computer Networks,2,32,48,80,A+,Pass
+STU0099,Data Structures,2,32,46,78,A,Pass
+STU0100,Computer Networks,1,23,37,60,B+,Pass
+STU0100,Database Management Systems,1,25,40,65,B+,Pass
+STU0101,Software Engineering,8,22,31,53,B,Pass
+STU0101,Database Management Systems,8,20,35,55,B,Pass
+STU0102,Digital Electronics,3,22,33,55,B,Pass
+STU0102,Signals & Systems,3,19,30,49,C,Pass
+STU0103,Computer Networks,8,29,44,73,A,Pass
+STU0103,Operating Systems,8,29,33,62,B+,Pass
+STU0104,Software Engineering,4,26,40,66,B+,Pass
+STU0104,Database Management Systems,4,23,24,47,C,Pass
+STU0105,Signals & Systems,8,9,27,36,F,Fail
+STU0105,Digital Electronics,8,15,20,35,F,Fail
+STU0106,Digital Electronics,3,32,41,73,A,Pass
+STU0106,Communication Systems,3,30,54,84,A+,Pass
+STU0107,Machine Learning,7,22,27,49,C,Pass
+STU0107,Data Structures,7,22,39,61,B+,Pass
+STU0108,Operating Systems,1,26,45,71,A,Pass
+STU0108,Database Management Systems,1,24,39,63,B+,Pass
+STU0109,Data Structures,5,17,23,40,C,Fail
+STU0109,Operating Systems,5,13,23,36,F,Fail
+STU0110,Web Technologies,8,26,50,76,A,Pass
+STU0110,Software Engineering,8,30,47,77,A,Pass
+STU0111,Probability & Statistics,7,30,42,72,A,Pass
+STU0111,Data Structures,7,29,51,80,A+,Pass
+STU0112,Data Structures,7,26,34,60,B+,Pass
+STU0112,Computer Networks,7,24,41,65,B+,Pass
+STU0113,Machine Learning,1,33,52,85,A+,Pass
+STU0113,Probability & Statistics,1,34,51,85,A+,Pass
+STU0114,Machine Learning,3,20,33,53,B,Pass
+STU0114,Artificial Intelligence,3,19,30,49,C,Pass
+STU0115,Operating Systems,2,25,38,63,B+,Pass
+STU0115,Computer Networks,2,25,45,70,A,Pass
+STU0116,Web Technologies,2,25,26,51,B,Pass
+STU0116,Software Engineering,2,20,30,50,B,Pass
+STU0117,Digital Electronics,5,18,27,45,C,Pass
+STU0117,Communication Systems,5,23,29,52,B,Pass
+STU0118,Microprocessors,6,27,40,67,B+,Pass
+STU0118,Digital Electronics,6,28,37,65,B+,Pass
+STU0119,Data Structures,8,32,38,70,A,Pass
+STU0119,Probability & Statistics,8,23,39,62,B+,Pass
+STU0120,Machine Learning,7,14,20,34,F,Fail
+STU0120,Artificial Intelligence,7,11,21,32,F,Fail
+STU0121,Machine Learning,5,18,31,49,C,Pass
+STU0121,Artificial Intelligence,5,17,25,42,C,Pass
+STU0122,Digital Electronics,7,22,35,57,B,Pass
+STU0122,Communication Systems,7,16,25,41,C,Pass
+STU0123,Data Structures,1,21,36,57,B,Pass
+STU0123,Operating Systems,1,25,30,55,B,Pass
+STU0124,Database Management Systems,1,33,59,92,O,Pass
+STU0124,Data Structures,1,34,54,88,A+,Pass
+STU0125,Computer Networks,5,33,54,87,A+,Pass
+STU0125,Data Structures,5,32,50,82,A+,Pass
+STU0126,Python Programming,8,18,22,40,C,Fail
+STU0126,Machine Learning,8,10,16,26,F,Fail
+STU0127,Database Management Systems,1,30,45,75,A,Pass
+STU0127,Data Structures,1,33,60,93,O,Pass
+STU0128,Data Structures,4,28,47,75,A,Pass
+STU0128,Computer Networks,4,33,40,73,A,Pass
+STU0129,Operating Systems,5,16,27,43,C,Pass
+STU0129,Computer Networks,5,13,33,46,C,Fail
+STU0130,Artificial Intelligence,1,28,44,72,A,Pass
+STU0130,Python Programming,1,22,46,68,B+,Pass
+STU0131,Data Structures,4,29,39,68,B+,Pass
+STU0131,Computer Networks,4,22,42,64,B+,Pass
+STU0132,Computer Networks,8,24,34,58,B,Pass
+STU0132,Web Technologies,8,26,27,53,B,Pass
+STU0133,Artificial Intelligence,6,18,34,52,B,Pass
+STU0133,Python Programming,6,16,13,29,F,Fail
+STU0134,Probability & Statistics,1,25,39,64,B+,Pass
+STU0134,Machine Learning,1,31,34,65,B+,Pass
+STU0135,Machine Learning,7,15,21,36,F,Fail
+STU0135,Artificial Intelligence,7,14,23,37,F,Fail
+STU0136,Data Structures,3,22,25,47,C,Pass
+STU0136,Operating Systems,3,23,46,69,B+,Pass
+STU0137,Database Management Systems,7,33,42,75,A,Pass
+STU0137,Web Technologies,7,36,47,83,A+,Pass
+STU0138,Python Programming,4,23,36,59,B,Pass
+STU0138,Artificial Intelligence,4,21,33,54,B,Pass
+STU0139,Communication Systems,5,28,33,61,B+,Pass
+STU0139,Signals & Systems,5,19,32,51,B,Pass
+STU0140,Data Structures,3,25,41,66,B+,Pass
+STU0140,Operating Systems,3,31,44,75,A,Pass
+STU0141,Machine Learning,4,24,40,64,B+,Pass
+STU0141,Data Structures,4,26,50,76,A,Pass
+STU0142,Python Programming,7,29,43,72,A,Pass
+STU0142,Data Structures,7,31,47,78,A,Pass
+STU0143,Database Management Systems,1,29,39,68,B+,Pass
+STU0143,Software Engineering,1,26,45,71,A,Pass
+STU0144,Machine Learning,1,24,43,67,B+,Pass
+STU0144,Python Programming,1,29,45,74,A,Pass
+STU0145,Artificial Intelligence,3,32,41,73,A,Pass
+STU0145,Python Programming,3,25,40,65,B+,Pass
+STU0146,Database Management Systems,6,23,43,66,B+,Pass
+STU0146,Operating Systems,6,25,28,53,B,Pass
+STU0147,Database Management Systems,8,30,43,73,A,Pass
+STU0147,Machine Learning,8,29,41,70,A,Pass
+STU0148,Artificial Intelligence,8,26,39,65,B+,Pass
+STU0148,Machine Learning,8,24,26,50,B,Pass
+STU0149,Database Management Systems,3,21,23,44,C,Fail
+STU0149,Machine Learning,3,23,29,52,B,Pass
+STU0150,Computer Networks,4,18,33,51,B,Pass
+STU0150,Data Structures,4,24,32,56,B,Pass
+STU0151,Database Management Systems,2,22,26,48,C,Pass
+STU0151,Software Engineering,2,20,36,56,B,Pass
+STU0152,Web Technologies,5,25,38,63,B+,Pass
+STU0152,Computer Networks,5,23,43,66,B+,Pass
+STU0153,Computer Networks,8,33,43,76,A,Pass
+STU0153,Operating Systems,8,31,47,78,A,Pass
+STU0154,Machine Learning,5,17,29,46,C,Pass
+STU0154,Artificial Intelligence,5,23,33,56,B,Pass
+STU0155,Computer Networks,6,35,52,87,A+,Pass
+STU0155,Database Management Systems,6,34,45,79,A,Pass
+STU0156,Microprocessors,4,25,32,57,B,Pass
+STU0156,Communication Systems,4,26,51,77,A,Pass
+STU0157,Probability & Statistics,7,21,39,60,B+,Pass
+STU0157,Machine Learning,7,23,36,59,B,Pass
+STU0158,Communication Systems,3,27,34,61,B+,Pass
+STU0158,Microprocessors,3,22,36,58,B,Pass
+STU0159,Signals & Systems,1,13,24,37,F,Fail
+STU0159,Microprocessors,1,18,27,45,C,Pass
+STU0160,Communication Systems,4,29,46,75,A,Pass
+STU0160,Digital Electronics,4,24,46,70,A,Pass
+STU0161,Data Structures,1,29,43,72,A,Pass
+STU0161,Computer Networks,1,32,35,67,B+,Pass
+STU0162,Computer Networks,2,21,34,55,B,Pass
+STU0162,Software Engineering,2,20,33,53,B,Pass
+STU0163,Database Management Systems,1,25,31,56,B,Pass
+STU0163,Operating Systems,1,25,42,67,B+,Pass
+STU0164,Data Structures,3,29,48,77,A,Pass
+STU0164,Computer Networks,3,26,44,70,A,Pass
+STU0165,Python Programming,6,33,52,85,A+,Pass
+STU0165,Machine Learning,6,23,40,63,B+,Pass
+STU0166,Probability & Statistics,4,22,41,63,B+,Pass
+STU0166,Machine Learning,4,26,51,77,A,Pass
+STU0167,Software Engineering,4,29,38,67,B+,Pass
+STU0167,Computer Networks,4,27,44,71,A,Pass
+STU0168,Microprocessors,7,19,23,42,C,Fail
+STU0168,Signals & Systems,7,11,31,42,C,Fail
+STU0169,Data Structures,5,28,48,76,A,Pass
+STU0169,Probability & Statistics,5,23,33,56,B,Pass
+STU0170,Web Technologies,5,18,25,43,C,Pass
+STU0170,Database Management Systems,5,20,16,36,F,Fail
+STU0171,Probability & Statistics,4,9,25,34,F,Fail
+STU0171,Database Management Systems,4,22,25,47,C,Pass
+STU0172,Python Programming,8,31,50,81,A+,Pass
+STU0172,Artificial Intelligence,8,26,43,69,B+,Pass
+STU0173,Computer Networks,1,26,38,64,B+,Pass
+STU0173,Operating Systems,1,24,36,60,B+,Pass
+STU0174,Software Engineering,4,22,30,52,B,Pass
+STU0174,Database Management Systems,4,21,39,60,B+,Pass
+STU0175,Computer Networks,7,27,38,65,B+,Pass
+STU0175,Operating Systems,7,30,31,61,B+,Pass
+STU0176,Database Management Systems,4,20,42,62,B+,Pass
+STU0176,Computer Networks,4,24,18,42,C,Fail
+STU0177,Probability & Statistics,6,24,36,60,B+,Pass
+STU0177,Database Management Systems,6,25,41,66,B+,Pass
+STU0178,Computer Networks,6,27,47,74,A,Pass
+STU0178,Web Technologies,6,23,48,71,A,Pass
+STU0179,Computer Networks,5,19,24,43,C,Pass
+STU0179,Web Technologies,5,23,27,50,B,Pass
+STU0180,Signals & Systems,4,16,30,46,C,Pass
+STU0180,Microprocessors,4,22,37,59,B,Pass
+STU0181,Web Technologies,1,22,32,54,B,Pass
+STU0181,Software Engineering,1,23,38,61,B+,Pass
+STU0182,Software Engineering,4,18,27,45,C,Pass
+STU0182,Web Technologies,4,20,24,44,C,Pass
+STU0183,Python Programming,1,23,27,50,B,Pass
+STU0183,Data Structures,1,21,32,53,B,Pass
+STU0184,Database Management Systems,8,40,53,93,O,Pass
+STU0184,Machine Learning,8,37,54,91,O,Pass
+STU0185,Signals & Systems,3,26,37,63,B+,Pass
+STU0185,Communication Systems,3,28,40,68,B+,Pass
+STU0186,Communication Systems,5,20,17,37,F,Fail
+STU0186,Microprocessors,5,19,23,42,C,Fail
+STU0187,Machine Learning,8,19,19,38,F,Fail
+STU0187,Database Management Systems,8,15,24,39,F,Fail
+STU0188,Data Structures,8,21,45,66,B+,Pass
+STU0188,Database Management Systems,8,21,40,61,B+,Pass
+STU0189,Microprocessors,3,27,41,68,B+,Pass
+STU0189,Signals & Systems,3,29,52,81,A+,Pass
+STU0190,Operating Systems,4,24,30,54,B,Pass
+STU0190,Data Structures,4,26,34,60,B+,Pass
+STU0191,Database Management Systems,7,35,33,68,B+,Pass
+STU0191,Software Engineering,7,29,51,80,A+,Pass
+STU0192,Data Structures,5,23,36,59,B,Pass
+STU0192,Computer Networks,5,20,37,57,B,Pass
+STU0193,Operating Systems,7,28,41,69,B+,Pass
+STU0193,Computer Networks,7,29,51,80,A+,Pass
+STU0194,Database Management Systems,7,17,33,50,B,Pass
+STU0194,Computer Networks,7,20,24,44,C,Pass
+STU0195,Computer Networks,7,30,35,65,B+,Pass
+STU0195,Data Structures,7,35,46,81,A+,Pass
+STU0196,Computer Networks,1,27,40,67,B+,Pass
+STU0196,Operating Systems,1,19,39,58,B,Pass
+STU0197,Artificial Intelligence,5,29,46,75,A,Pass
+STU0197,Python Programming,5,28,58,86,A+,Pass
+STU0198,Database Management Systems,1,18,30,48,C,Pass
+STU0198,Web Technologies,1,21,33,54,B,Pass
+STU0199,Operating Systems,5,30,28,58,B,Pass
+STU0199,Database Management Systems,5,27,37,64,B+,Pass
+STU0200,Probability & Statistics,8,24,30,54,B,Pass
+STU0200,Data Structures,8,26,46,72,A,Pass
+STU0201,Digital Electronics,4,26,44,70,A,Pass
+STU0201,Communication Systems,4,17,33,50,B,Pass
+STU0202,Computer Networks,3,27,39,66,B+,Pass
+STU0202,Web Technologies,3,27,37,64,B+,Pass
+STU0203,Machine Learning,1,26,34,60,B+,Pass
+STU0203,Artificial Intelligence,1,24,31,55,B,Pass
+STU0204,Database Management Systems,8,20,33,53,B,Pass
+STU0204,Operating Systems,8,25,36,61,B+,Pass
+STU0205,Computer Networks,2,30,44,74,A,Pass
+STU0205,Database Management Systems,2,30,51,81,A+,Pass
+STU0206,Database Management Systems,2,31,41,72,A,Pass
+STU0206,Operating Systems,2,25,37,62,B+,Pass
+STU0207,Operating Systems,2,17,35,52,B,Pass
+STU0207,Data Structures,2,17,15,32,F,Fail
+STU0208,Communication Systems,2,16,32,48,C,Pass
+STU0208,Signals & Systems,2,22,32,54,B,Pass
+STU0209,Computer Networks,4,25,32,57,B,Pass
+STU0209,Database Management Systems,4,21,38,59,B,Pass
+STU0210,Artificial Intelligence,3,26,34,60,B+,Pass
+STU0210,Python Programming,3,25,39,64,B+,Pass
+STU0211,Communication Systems,3,27,34,61,B+,Pass
+STU0211,Digital Electronics,3,26,40,66,B+,Pass
+STU0212,Python Programming,1,12,21,33,F,Fail
+STU0212,Data Structures,1,12,22,34,F,Fail
+STU0213,Computer Networks,1,26,32,58,B,Pass
+STU0213,Operating Systems,1,26,47,73,A,Pass
+STU0214,Digital Electronics,4,17,28,45,C,Pass
+STU0214,Communication Systems,4,21,34,55,B,Pass
+STU0215,Communication Systems,2,20,31,51,B,Pass
+STU0215,Signals & Systems,2,27,21,48,C,Fail
+STU0216,Digital Electronics,6,23,31,54,B,Pass
+STU0216,Microprocessors,6,18,30,48,C,Pass
+STU0217,Data Structures,1,21,39,60,B+,Pass
+STU0217,Operating Systems,1,24,36,60,B+,Pass
+STU0218,Operating Systems,3,25,40,65,B+,Pass
+STU0218,Database Management Systems,3,22,40,62,B+,Pass
+STU0219,Software Engineering,3,32,42,74,A,Pass
+STU0219,Database Management Systems,3,28,47,75,A,Pass
+STU0220,Probability & Statistics,4,19,25,44,C,Pass
+STU0220,Database Management Systems,4,28,33,61,B+,Pass
+STU0221,Data Structures,1,23,37,60,B+,Pass
+STU0221,Machine Learning,1,19,28,47,C,Pass
+STU0222,Machine Learning,1,23,31,54,B,Pass
+STU0222,Python Programming,1,26,47,73,A,Pass
+STU0223,Microprocessors,8,27,35,62,B+,Pass
+STU0223,Digital Electronics,8,28,54,82,A+,Pass
+STU0224,Software Engineering,2,26,50,76,A,Pass
+STU0224,Web Technologies,2,34,44,78,A,Pass
+STU0225,Data Structures,4,32,51,83,A+,Pass
+STU0225,Probability & Statistics,4,24,39,63,B+,Pass
+STU0226,Computer Networks,3,18,26,44,C,Pass
+STU0226,Database Management Systems,3,12,23,35,F,Fail
+STU0227,Computer Networks,3,30,39,69,B+,Pass
+STU0227,Operating Systems,3,26,51,77,A,Pass
+STU0228,Machine Learning,3,28,46,74,A,Pass
+STU0228,Artificial Intelligence,3,31,44,75,A,Pass
+STU0229,Artificial Intelligence,7,26,35,61,B+,Pass
+STU0229,Data Structures,7,28,48,76,A,Pass
+STU0230,Database Management Systems,8,25,55,80,A+,Pass
+STU0230,Operating Systems,8,27,35,62,B+,Pass
+STU0231,Data Structures,1,23,42,65,B+,Pass
+STU0231,Computer Networks,1,23,31,54,B,Pass
+STU0232,Database Management Systems,3,26,33,59,B,Pass
+STU0232,Machine Learning,3,24,33,57,B,Pass
+STU0233,Database Management Systems,2,24,30,54,B,Pass
+STU0233,Computer Networks,2,19,33,52,B,Pass
+STU0234,Data Structures,3,17,22,39,F,Fail
+STU0234,Machine Learning,3,11,15,26,F,Fail
+STU0235,Database Management Systems,5,29,41,70,A,Pass
+STU0235,Web Technologies,5,29,48,77,A,Pass
+STU0236,Digital Electronics,1,16,23,39,F,Fail
+STU0236,Signals & Systems,1,13,36,49,C,Fail
+STU0237,Python Programming,3,31,54,85,A+,Pass
+STU0237,Artificial Intelligence,3,31,41,72,A,Pass
+STU0238,Communication Systems,7,15,23,38,F,Fail
+STU0238,Digital Electronics,7,13,21,34,F,Fail
+STU0239,Computer Networks,2,27,34,61,B+,Pass
+STU0239,Operating Systems,2,28,46,74,A,Pass
+STU0240,Computer Networks,4,34,38,72,A,Pass
+STU0240,Operating Systems,4,36,46,82,A+,Pass
+STU0241,Database Management Systems,5,20,37,57,B,Pass
+STU0241,Software Engineering,5,29,51,80,A+,Pass
+STU0242,Digital Electronics,1,24,26,50,B,Pass
+STU0242,Communication Systems,1,27,46,73,A,Pass
+STU0243,Data Structures,1,21,43,64,B+,Pass
+STU0243,Operating Systems,1,33,42,75,A,Pass
+STU0244,Machine Learning,2,34,43,77,A,Pass
+STU0244,Data Structures,2,38,43,81,A+,Pass
+STU0245,Data Structures,8,18,26,44,C,Pass
+STU0245,Python Programming,8,18,21,39,F,Fail
+STU0246,Web Technologies,2,27,36,63,B+,Pass
+STU0246,Database Management Systems,2,23,32,55,B,Pass
+STU0247,Data Structures,1,20,26,46,C,Pass
+STU0247,Machine Learning,1,23,37,60,B+,Pass
+STU0248,Database Management Systems,1,20,33,53,B,Pass
+STU0248,Data Structures,1,27,35,62,B+,Pass
+STU0249,Probability & Statistics,1,21,26,47,C,Pass
+STU0249,Data Structures,1,22,40,62,B+,Pass
+STU0250,Data Structures,5,30,44,74,A,Pass
+STU0250,Machine Learning,5,34,52,86,A+,Pass
+STU0251,Microprocessors,1,31,33,64,B+,Pass
+STU0251,Digital Electronics,1,30,49,79,A,Pass
+STU0252,Web Technologies,6,17,33,50,B,Pass
+STU0252,Computer Networks,6,23,41,64,B+,Pass
+STU0253,Database Management Systems,5,20,40,60,B+,Pass
+STU0253,Data Structures,5,26,39,65,B+,Pass
+STU0254,Database Management Systems,8,33,58,91,O,Pass
+STU0254,Operating Systems,8,34,38,72,A,Pass
+STU0255,Database Management Systems,2,26,25,51,B,Pass
+STU0255,Operating Systems,2,24,40,64,B+,Pass
+STU0256,Communication Systems,8,22,26,48,C,Pass
+STU0256,Signals & Systems,8,19,16,35,F,Fail
+STU0257,Microprocessors,5,9,17,26,F,Fail
+STU0257,Digital Electronics,5,14,33,47,C,Fail
+STU0258,Computer Networks,2,28,49,77,A,Pass
+STU0258,Database Management Systems,2,27,42,69,B+,Pass
+STU0259,Computer Networks,7,25,31,56,B,Pass
+STU0259,Data Structures,7,27,50,77,A,Pass
+STU0260,Artificial Intelligence,7,31,40,71,A,Pass
+STU0260,Python Programming,7,29,41,70,A,Pass
+STU0261,Database Management Systems,1,21,25,46,C,Pass
+STU0261,Data Structures,1,21,26,47,C,Pass
+STU0262,Database Management Systems,7,32,48,80,A+,Pass
+STU0262,Computer Networks,7,31,41,72,A,Pass
+STU0263,Data Structures,4,25,31,56,B,Pass
+STU0263,Probability & Statistics,4,16,18,34,F,Fail
+STU0264,Database Management Systems,6,32,37,69,B+,Pass
+STU0264,Data Structures,6,28,39,67,B+,Pass
+STU0265,Software Engineering,8,21,26,47,C,Pass
+STU0265,Web Technologies,8,23,20,43,C,Fail
+STU0266,Data Structures,3,29,29,58,B,Pass
+STU0266,Database Management Systems,3,38,56,94,O,Pass
+STU0267,Database Management Systems,7,26,40,66,B+,Pass
+STU0267,Data Structures,7,22,35,57,B,Pass
+STU0268,Data Structures,4,27,46,73,A,Pass
+STU0268,Database Management Systems,4,27,54,81,A+,Pass
+STU0269,Operating Systems,7,25,38,63,B+,Pass
+STU0269,Database Management Systems,7,35,41,76,A,Pass
+STU0270,Computer Networks,6,21,25,46,C,Pass
+STU0270,Operating Systems,6,21,30,51,B,Pass
+STU0271,Operating Systems,2,27,34,61,B+,Pass
+STU0271,Data Structures,2,23,40,63,B+,Pass
+STU0272,Database Management Systems,4,23,46,69,B+,Pass
+STU0272,Computer Networks,4,21,28,49,C,Pass
+STU0273,Data Structures,4,18,25,43,C,Pass
+STU0273,Computer Networks,4,19,27,46,C,Pass
+STU0274,Python Programming,1,26,40,66,B+,Pass
+STU0274,Data Structures,1,23,49,72,A,Pass
+STU0275,Digital Electronics,1,31,52,83,A+,Pass
+STU0275,Communication Systems,1,29,48,77,A,Pass
+STU0276,Database Management Systems,3,16,37,53,B,Pass
+STU0276,Data Structures,3,24,32,56,B,Pass
+STU0277,Database Management Systems,1,26,45,71,A,Pass
+STU0277,Machine Learning,1,24,36,60,B+,Pass
+STU0278,Artificial Intelligence,1,26,41,67,B+,Pass
+STU0278,Machine Learning,1,27,30,57,B,Pass
+STU0279,Computer Networks,6,25,32,57,B,Pass
+STU0279,Software Engineering,6,24,40,64,B+,Pass
+STU0280,Software Engineering,5,19,40,59,B,Pass
+STU0280,Computer Networks,5,30,21,51,B,Fail
+STU0281,Computer Networks,6,20,39,59,B,Pass
+STU0281,Database Management Systems,6,18,34,52,B,Pass
+STU0282,Operating Systems,4,29,42,71,A,Pass
+STU0282,Database Management Systems,4,30,42,72,A,Pass
+STU0283,Operating Systems,8,30,33,63,B+,Pass
+STU0283,Computer Networks,8,28,39,67,B+,Pass
+STU0284,Data Structures,5,34,44,78,A,Pass
+STU0284,Database Management Systems,5,33,60,93,O,Pass
+STU0285,Python Programming,2,27,35,62,B+,Pass
+STU0285,Artificial Intelligence,2,26,34,60,B+,Pass
+STU0286,Probability & Statistics,1,18,35,53,B,Pass
+STU0286,Database Management Systems,1,25,33,58,B,Pass
+STU0287,Database Management Systems,5,30,59,89,A+,Pass
+STU0287,Computer Networks,5,30,38,68,B+,Pass
+STU0288,Database Management Systems,1,32,49,81,A+,Pass
+STU0288,Machine Learning,1,28,39,67,B+,Pass
+STU0289,Artificial Intelligence,3,20,41,61,B+,Pass
+STU0289,Data Structures,3,23,38,61,B+,Pass
+STU0290,Computer Networks,7,32,45,77,A,Pass
+STU0290,Operating Systems,7,37,50,87,A+,Pass
+STU0291,Web Technologies,1,23,27,50,B,Pass
+STU0291,Software Engineering,1,22,31,53,B,Pass
+STU0292,Computer Networks,2,23,33,56,B,Pass
+STU0292,Database Management Systems,2,23,27,50,B,Pass
+STU0293,Computer Networks,7,19,21,40,C,Fail
+STU0293,Software Engineering,7,22,23,45,C,Fail
+STU0294,Computer Networks,5,21,21,42,C,Fail
+STU0294,Data Structures,5,16,33,49,C,Pass
+STU0295,Web Technologies,2,23,40,63,B+,Pass
+STU0295,Software Engineering,2,16,28,44,C,Pass
+STU0296,Database Management Systems,8,28,42,70,A,Pass
+STU0296,Computer Networks,8,28,47,75,A,Pass
+STU0297,Database Management Systems,8,26,33,59,B,Pass
+STU0297,Computer Networks,8,24,46,70,A,Pass
+STU0298,Signals & Systems,5,12,20,32,F,Fail
+STU0298,Communication Systems,5,14,26,40,C,Fail
+STU0299,Microprocessors,6,12,25,37,F,Fail
+STU0299,Communication Systems,6,13,23,36,F,Fail
+STU0300,Digital Electronics,4,28,43,71,A,Pass
+STU0300,Signals & Systems,4,34,40,74,A,Pass
+STU0301,Communication Systems,1,21,35,56,B,Pass
+STU0301,Microprocessors,1,19,40,59,B,Pass
+STU0302,Database Management Systems,5,24,32,56,B,Pass
+STU0302,Data Structures,5,22,21,43,C,Fail
+STU0303,Machine Learning,4,20,18,38,F,Fail
+STU0303,Python Programming,4,26,33,59,B,Pass
+STU0304,Artificial Intelligence,5,15,23,38,F,Fail
+STU0304,Machine Learning,5,16,15,31,F,Fail
+STU0305,Software Engineering,7,28,40,68,B+,Pass
+STU0305,Computer Networks,7,25,35,60,B+,Pass
+STU0306,Data Structures,2,26,28,54,B,Pass
+STU0306,Machine Learning,2,26,37,63,B+,Pass
+STU0307,Probability & Statistics,6,26,35,61,B+,Pass
+STU0307,Database Management Systems,6,31,49,80,A+,Pass
+STU0308,Data Structures,2,20,32,52,B,Pass
+STU0308,Artificial Intelligence,2,15,34,49,C,Fail
+STU0309,Data Structures,8,29,39,68,B+,Pass
+STU0309,Computer Networks,8,26,38,64,B+,Pass
+STU0310,Data Structures,2,27,42,69,B+,Pass
+STU0310,Computer Networks,2,22,32,54,B,Pass
+STU0311,Data Structures,5,22,50,72,A,Pass
+STU0311,Artificial Intelligence,5,27,38,65,B+,Pass
+STU0312,Machine Learning,5,31,44,75,A,Pass
+STU0312,Data Structures,5,32,44,76,A,Pass
+STU0313,Computer Networks,4,23,43,66,B+,Pass
+STU0313,Database Management Systems,4,25,37,62,B+,Pass
+STU0314,Probability & Statistics,5,20,36,56,B,Pass
+STU0314,Data Structures,5,21,41,62,B+,Pass
+STU0315,Machine Learning,5,19,37,56,B,Pass
+STU0315,Data Structures,5,28,34,62,B+,Pass
+STU0316,Data Structures,6,31,60,91,O,Pass
+STU0316,Probability & Statistics,6,32,57,89,A+,Pass
+STU0317,Machine Learning,6,16,30,46,C,Pass
+STU0317,Probability & Statistics,6,12,18,30,F,Fail
+STU0318,Microprocessors,7,20,30,50,B,Pass
+STU0318,Digital Electronics,7,24,31,55,B,Pass
+STU0319,Probability & Statistics,3,22,26,48,C,Pass
+STU0319,Data Structures,3,31,48,79,A,Pass
+STU0320,Software Engineering,4,30,35,65,B+,Pass
+STU0320,Web Technologies,4,26,32,58,B,Pass
+STU0321,Computer Networks,1,21,48,69,B+,Pass
+STU0321,Web Technologies,1,25,33,58,B,Pass
+STU0322,Machine Learning,8,28,38,66,B+,Pass
+STU0322,Artificial Intelligence,8,21,39,60,B+,Pass
+STU0323,Probability & Statistics,4,12,28,40,C,Fail
+STU0323,Data Structures,4,25,30,55,B,Pass
+STU0324,Python Programming,4,13,25,38,F,Fail
+STU0324,Artificial Intelligence,4,14,28,42,C,Fail
+STU0325,Database Management Systems,1,22,37,59,B,Pass
+STU0325,Software Engineering,1,22,38,60,B+,Pass
+STU0326,Signals & Systems,8,15,32,47,C,Fail
+STU0326,Communication Systems,8,17,17,34,F,Fail
+STU0327,Digital Electronics,3,12,10,22,F,Fail
+STU0327,Microprocessors,3,7,9,16,F,Fail
+STU0328,Artificial Intelligence,6,25,22,47,C,Fail
+STU0328,Data Structures,6,26,29,55,B,Pass
+STU0329,Data Structures,1,24,27,51,B,Pass
+STU0329,Artificial Intelligence,1,29,31,60,B+,Pass
+STU0330,Data Structures,7,26,46,72,A,Pass
+STU0330,Probability & Statistics,7,20,38,58,B,Pass
+STU0331,Microprocessors,2,20,32,52,B,Pass
+STU0331,Communication Systems,2,30,39,69,B+,Pass
+STU0332,Data Structures,1,21,24,45,C,Pass
+STU0332,Operating Systems,1,12,26,38,F,Fail
+STU0333,Digital Electronics,8,21,22,43,C,Fail
+STU0333,Microprocessors,8,13,24,37,F,Fail
+STU0334,Web Technologies,8,32,56,88,A+,Pass
+STU0334,Software Engineering,8,29,49,78,A,Pass
+STU0335,Database Management Systems,1,23,26,49,C,Pass
+STU0335,Operating Systems,1,23,31,54,B,Pass
+STU0336,Machine Learning,3,22,31,53,B,Pass
+STU0336,Artificial Intelligence,3,28,34,62,B+,Pass
+STU0337,Operating Systems,6,27,46,73,A,Pass
+STU0337,Data Structures,6,23,30,53,B,Pass
+STU0338,Digital Electronics,7,21,37,58,B,Pass
+STU0338,Communication Systems,7,20,38,58,B,Pass
+STU0339,Database Management Systems,3,24,36,60,B+,Pass
+STU0339,Computer Networks,3,22,33,55,B,Pass
+STU0340,Database Management Systems,3,27,53,80,A+,Pass
+STU0340,Web Technologies,3,29,50,79,A,Pass
+STU0341,Database Management Systems,5,33,40,73,A,Pass
+STU0341,Data Structures,5,24,37,61,B+,Pass
+STU0342,Software Engineering,6,25,30,55,B,Pass
+STU0342,Computer Networks,6,20,21,41,C,Fail
+STU0343,Digital Electronics,7,23,22,45,C,Fail
+STU0343,Communication Systems,7,20,29,49,C,Pass
+STU0344,Artificial Intelligence,6,28,40,68,B+,Pass
+STU0344,Data Structures,6,21,46,67,B+,Pass
+STU0345,Digital Electronics,1,15,36,51,B,Fail
+STU0345,Communication Systems,1,19,34,53,B,Pass
+STU0346,Communication Systems,8,23,41,64,B+,Pass
+STU0346,Digital Electronics,8,23,35,58,B,Pass
+STU0347,Web Technologies,7,39,55,94,O,Pass
+STU0347,Computer Networks,7,33,49,82,A+,Pass
+STU0348,Data Structures,7,28,43,71,A,Pass
+STU0348,Operating Systems,7,31,43,74,A,Pass
+STU0349,Data Structures,2,33,50,83,A+,Pass
+STU0349,Python Programming,2,31,44,75,A,Pass
+STU0350,Data Structures,1,24,34,58,B,Pass
+STU0350,Operating Systems,1,24,36,60,B+,Pass
+STU0351,Data Structures,5,22,20,42,C,Fail
+STU0351,Python Programming,5,20,21,41,C,Fail
+STU0352,Computer Networks,2,17,26,43,C,Pass
+STU0352,Operating Systems,2,21,35,56,B,Pass
+STU0353,Data Structures,7,25,44,69,B+,Pass
+STU0353,Python Programming,7,30,44,74,A,Pass
+STU0354,Python Programming,3,21,28,49,C,Pass
+STU0354,Artificial Intelligence,3,22,39,61,B+,Pass
+STU0355,Data Structures,5,25,43,68,B+,Pass
+STU0355,Python Programming,5,26,41,67,B+,Pass
+STU0356,Python Programming,8,23,33,56,B,Pass
+STU0356,Artificial Intelligence,8,19,32,51,B,Pass
+STU0357,Signals & Systems,4,17,25,42,C,Pass
+STU0357,Communication Systems,4,18,33,51,B,Pass
+STU0358,Signals & Systems,4,10,15,25,F,Fail
+STU0358,Communication Systems,4,20,32,52,B,Pass
+STU0359,Python Programming,6,24,35,59,B,Pass
+STU0359,Artificial Intelligence,6,20,36,56,B,Pass
+STU0360,Python Programming,5,17,37,54,B,Pass
+STU0360,Data Structures,5,17,28,45,C,Pass
+STU0361,Web Technologies,3,21,33,54,B,Pass
+STU0361,Computer Networks,3,18,41,59,B,Pass
+STU0362,Data Structures,5,20,34,54,B,Pass
+STU0362,Operating Systems,5,25,37,62,B+,Pass
+STU0363,Database Management Systems,7,26,41,67,B+,Pass
+STU0363,Computer Networks,7,23,42,65,B+,Pass
+STU0364,Operating Systems,3,33,38,71,A,Pass
+STU0364,Data Structures,3,19,33,52,B,Pass
+STU0365,Signals & Systems,2,12,20,32,F,Fail
+STU0365,Microprocessors,2,16,22,38,F,Fail
+STU0366,Probability & Statistics,4,23,29,52,B,Pass
+STU0366,Database Management Systems,4,30,39,69,B+,Pass
+STU0367,Digital Electronics,4,17,32,49,C,Pass
+STU0367,Communication Systems,4,24,31,55,B,Pass
+STU0368,Microprocessors,2,17,38,55,B,Pass
+STU0368,Digital Electronics,2,25,34,59,B,Pass
+STU0369,Database Management Systems,2,29,50,79,A,Pass
+STU0369,Data Structures,2,27,47,74,A,Pass
+STU0370,Computer Networks,5,24,37,61,B+,Pass
+STU0370,Web Technologies,5,28,31,59,B,Pass
+STU0371,Microprocessors,4,16,21,37,F,Fail
+STU0371,Digital Electronics,4,22,28,50,B,Pass
+STU0372,Database Management Systems,8,27,39,66,B+,Pass
+STU0372,Data Structures,8,23,50,73,A,Pass
+STU0373,Machine Learning,1,22,27,49,C,Pass
+STU0373,Data Structures,1,21,37,58,B,Pass
+STU0374,Probability & Statistics,1,20,43,63,B+,Pass
+STU0374,Machine Learning,1,26,41,67,B+,Pass
+STU0375,Database Management Systems,6,30,39,69,B+,Pass
+STU0375,Data Structures,6,31,33,64,B+,Pass
+STU0376,Computer Networks,7,24,40,64,B+,Pass
+STU0376,Data Structures,7,30,52,82,A+,Pass
+STU0377,Computer Networks,4,23,31,54,B,Pass
+STU0377,Software Engineering,4,22,39,61,B+,Pass
+STU0378,Probability & Statistics,2,24,36,60,B+,Pass
+STU0378,Data Structures,2,26,35,61,B+,Pass
+STU0379,Database Management Systems,1,21,46,67,B+,Pass
+STU0379,Machine Learning,1,25,32,57,B,Pass
+STU0380,Microprocessors,3,27,47,74,A,Pass
+STU0380,Signals & Systems,3,21,34,55,B,Pass
+STU0381,Artificial Intelligence,3,30,33,63,B+,Pass
+STU0381,Machine Learning,3,25,27,52,B,Pass
+STU0382,Web Technologies,1,32,58,90,O,Pass
+STU0382,Software Engineering,1,28,31,59,B,Pass
+STU0383,Communication Systems,1,24,26,50,B,Pass
+STU0383,Microprocessors,1,16,28,44,C,Pass
+STU0384,Machine Learning,4,29,50,79,A,Pass
+STU0384,Artificial Intelligence,4,32,43,75,A,Pass
+STU0385,Machine Learning,7,23,45,68,B+,Pass
+STU0385,Data Structures,7,23,47,70,A,Pass
+STU0386,Software Engineering,5,29,39,68,B+,Pass
+STU0386,Web Technologies,5,29,48,77,A,Pass
+STU0387,Signals & Systems,3,24,29,53,B,Pass
+STU0387,Communication Systems,3,25,27,52,B,Pass
+STU0388,Database Management Systems,2,23,31,54,B,Pass
+STU0388,Computer Networks,2,24,36,60,B+,Pass
+STU0389,Operating Systems,1,16,36,52,B,Pass
+STU0389,Computer Networks,1,26,25,51,B,Pass
+STU0390,Software Engineering,3,28,45,73,A,Pass
+STU0390,Web Technologies,3,31,52,83,A+,Pass
+STU0391,Artificial Intelligence,6,36,59,95,O,Pass
+STU0391,Data Structures,6,40,60,100,O,Pass
+STU0392,Database Management Systems,7,20,30,50,B,Pass
+STU0392,Data Structures,7,22,39,61,B+,Pass
+STU0393,Machine Learning,7,26,40,66,B+,Pass
+STU0393,Python Programming,7,28,50,78,A,Pass
+STU0394,Communication Systems,7,21,31,52,B,Pass
+STU0394,Microprocessors,7,21,13,34,F,Fail
+STU0395,Operating Systems,7,22,29,51,B,Pass
+STU0395,Data Structures,7,18,32,50,B,Pass
+STU0396,Machine Learning,7,31,35,66,B+,Pass
+STU0396,Data Structures,7,35,48,83,A+,Pass
+STU0397,Computer Networks,2,20,27,47,C,Pass
+STU0397,Web Technologies,2,23,37,60,B+,Pass
+STU0398,Data Structures,1,20,35,55,B,Pass
+STU0398,Machine Learning,1,21,36,57,B,Pass
+STU0399,Data Structures,3,24,27,51,B,Pass
+STU0399,Probability & Statistics,3,17,21,38,F,Fail
+STU0400,Database Management Systems,5,19,31,50,B,Pass
+STU0400,Machine Learning,5,17,29,46,C,Pass
+STU0401,Database Management Systems,2,18,23,41,C,Fail
+STU0401,Data Structures,2,21,21,42,C,Fail
+STU0402,Software Engineering,8,27,37,64,B+,Pass
+STU0402,Database Management Systems,8,31,60,91,O,Pass
+STU0403,Digital Electronics,5,38,49,87,A+,Pass
+STU0403,Microprocessors,5,34,51,85,A+,Pass
+STU0404,Operating Systems,5,27,21,48,C,Fail
+STU0404,Database Management Systems,5,23,35,58,B,Pass
+STU0405,Web Technologies,1,20,27,47,C,Pass
+STU0405,Software Engineering,1,18,30,48,C,Pass
+STU0406,Web Technologies,1,31,54,85,A+,Pass
+STU0406,Software Engineering,1,29,46,75,A,Pass
+STU0407,Database Management Systems,1,22,33,55,B,Pass
+STU0407,Data Structures,1,27,31,58,B,Pass
+STU0408,Web Technologies,7,23,42,65,B+,Pass
+STU0408,Software Engineering,7,29,38,67,B+,Pass
+STU0409,Database Management Systems,6,20,29,49,C,Pass
+STU0409,Data Structures,6,21,42,63,B+,Pass
+STU0410,Web Technologies,5,21,26,47,C,Pass
+STU0410,Software Engineering,5,18,36,54,B,Pass
+STU0411,Microprocessors,3,23,29,52,B,Pass
+STU0411,Digital Electronics,3,23,36,59,B,Pass
+STU0412,Signals & Systems,3,20,42,62,B+,Pass
+STU0412,Communication Systems,3,25,35,60,B+,Pass
+STU0413,Database Management Systems,4,20,25,45,C,Pass
+STU0413,Operating Systems,4,20,43,63,B+,Pass
+STU0414,Computer Networks,6,20,34,54,B,Pass
+STU0414,Web Technologies,6,18,29,47,C,Pass
+STU0415,Operating Systems,7,23,40,63,B+,Pass
+STU0415,Database Management Systems,7,26,34,60,B+,Pass
+STU0416,Computer Networks,1,19,35,54,B,Pass
+STU0416,Database Management Systems,1,21,29,50,B,Pass
+STU0417,Operating Systems,8,24,37,61,B+,Pass
+STU0417,Data Structures,8,28,43,71,A,Pass
+STU0418,Microprocessors,2,6,13,19,F,Fail
+STU0418,Communication Systems,2,12,20,32,F,Fail
+STU0419,Database Management Systems,7,23,33,56,B,Pass
+STU0419,Data Structures,7,17,39,56,B,Pass
+STU0420,Database Management Systems,2,24,44,68,B+,Pass
+STU0420,Computer Networks,2,23,44,67,B+,Pass
+STU0421,Microprocessors,2,19,25,44,C,Pass
+STU0421,Communication Systems,2,23,34,57,B,Pass
+STU0422,Computer Networks,7,28,22,50,B,Fail
+STU0422,Database Management Systems,7,31,34,65,B+,Pass
+STU0423,Database Management Systems,2,24,33,57,B,Pass
+STU0423,Operating Systems,2,23,34,57,B,Pass
+STU0424,Database Management Systems,3,30,41,71,A,Pass
+STU0424,Computer Networks,3,33,45,78,A,Pass
+STU0425,Python Programming,3,28,40,68,B+,Pass
+STU0425,Data Structures,3,27,44,71,A,Pass
+STU0426,Digital Electronics,1,22,31,53,B,Pass
+STU0426,Microprocessors,1,27,31,58,B,Pass
+STU0427,Database Management Systems,5,34,49,83,A+,Pass
+STU0427,Computer Networks,5,28,58,86,A+,Pass
+STU0428,Web Technologies,8,31,43,74,A,Pass
+STU0428,Software Engineering,8,25,35,60,B+,Pass
+STU0429,Computer Networks,7,20,24,44,C,Pass
+STU0429,Operating Systems,7,18,30,48,C,Pass
+STU0430,Microprocessors,3,13,23,36,F,Fail
+STU0430,Digital Electronics,3,20,24,44,C,Pass
+STU0431,Software Engineering,5,15,33,48,C,Fail
+STU0431,Computer Networks,5,22,40,62,B+,Pass
+STU0432,Microprocessors,2,23,34,57,B,Pass
+STU0432,Communication Systems,2,26,45,71,A,Pass
+STU0433,Communication Systems,2,21,47,68,B+,Pass
+STU0433,Signals & Systems,2,26,38,64,B+,Pass
+STU0434,Computer Networks,2,20,27,47,C,Pass
+STU0434,Software Engineering,2,21,30,51,B,Pass
+STU0435,Computer Networks,7,20,29,49,C,Pass
+STU0435,Data Structures,7,18,28,46,C,Pass
+STU0436,Computer Networks,8,33,45,78,A,Pass
+STU0436,Database Management Systems,8,33,46,79,A,Pass
+STU0437,Database Management Systems,8,20,38,58,B,Pass
+STU0437,Data Structures,8,24,24,48,C,Pass
+STU0438,Data Structures,4,15,20,35,F,Fail
+STU0438,Artificial Intelligence,4,13,29,42,C,Fail
+STU0439,Digital Electronics,3,20,33,53,B,Pass
+STU0439,Microprocessors,3,17,28,45,C,Pass
+STU0440,Data Structures,4,15,19,34,F,Fail
+STU0440,Artificial Intelligence,4,12,23,35,F,Fail
+STU0441,Database Management Systems,5,18,33,51,B,Pass
+STU0441,Computer Networks,5,25,26,51,B,Pass
+STU0442,Operating Systems,3,28,25,53,B,Pass
+STU0442,Data Structures,3,27,36,63,B+,Pass
+STU0443,Signals & Systems,1,27,42,69,B+,Pass
+STU0443,Microprocessors,1,30,40,70,A,Pass
+STU0444,Operating Systems,1,20,34,54,B,Pass
+STU0444,Computer Networks,1,25,46,71,A,Pass
+STU0445,Data Structures,7,26,39,65,B+,Pass
+STU0445,Database Management Systems,7,27,40,67,B+,Pass
+STU0446,Signals & Systems,3,21,31,52,B,Pass
+STU0446,Communication Systems,3,23,35,58,B,Pass
+STU0447,Web Technologies,7,33,40,73,A,Pass
+STU0447,Computer Networks,7,33,49,82,A+,Pass
+STU0448,Artificial Intelligence,2,24,38,62,B+,Pass
+STU0448,Python Programming,2,24,45,69,B+,Pass
+STU0449,Data Structures,5,25,36,61,B+,Pass
+STU0449,Computer Networks,5,23,38,61,B+,Pass
+STU0450,Machine Learning,2,24,34,58,B,Pass
+STU0450,Artificial Intelligence,2,25,40,65,B+,Pass
+STU0451,Computer Networks,2,24,33,57,B,Pass
+STU0451,Database Management Systems,2,25,24,49,C,Pass
+STU0452,Software Engineering,2,26,41,67,B+,Pass
+STU0452,Computer Networks,2,24,44,68,B+,Pass
+STU0453,Communication Systems,2,14,25,39,F,Fail
+STU0453,Signals & Systems,2,10,24,34,F,Fail
+STU0454,Database Management Systems,7,24,35,59,B,Pass
+STU0454,Computer Networks,7,24,39,63,B+,Pass
+STU0455,Data Structures,4,19,26,45,C,Pass
+STU0455,Computer Networks,4,19,24,43,C,Pass
+STU0456,Data Structures,6,22,28,50,B,Pass
+STU0456,Computer Networks,6,14,25,39,F,Fail
+STU0457,Web Technologies,3,31,35,66,B+,Pass
+STU0457,Computer Networks,3,29,39,68,B+,Pass
+STU0458,Data Structures,3,21,22,43,C,Fail
+STU0458,Probability & Statistics,3,20,28,48,C,Pass
+STU0459,Signals & Systems,6,22,41,63,B+,Pass
+STU0459,Digital Electronics,6,18,42,60,B+,Pass
+STU0460,Python Programming,1,26,32,58,B,Pass
+STU0460,Data Structures,1,17,33,50,B,Pass
+STU0461,Data Structures,7,23,29,52,B,Pass
+STU0461,Python Programming,7,18,47,65,B+,Pass
+STU0462,Database Management Systems,8,30,49,79,A,Pass
+STU0462,Data Structures,8,26,38,64,B+,Pass
+STU0463,Web Technologies,6,31,53,84,A+,Pass
+STU0463,Database Management Systems,6,28,48,76,A,Pass
+STU0464,Probability & Statistics,3,8,18,26,F,Fail
+STU0464,Machine Learning,3,11,27,38,F,Fail
+STU0465,Data Structures,2,13,26,39,F,Fail
+STU0465,Python Programming,2,16,32,48,C,Pass
+STU0466,Communication Systems,7,22,41,63,B+,Pass
+STU0466,Signals & Systems,7,23,28,51,B,Pass
+STU0467,Communication Systems,4,21,34,55,B,Pass
+STU0467,Digital Electronics,4,20,30,50,B,Pass
+STU0468,Software Engineering,2,25,48,73,A,Pass
+STU0468,Computer Networks,2,29,35,64,B+,Pass
+STU0469,Operating Systems,3,27,44,71,A,Pass
+STU0469,Computer Networks,3,26,52,78,A,Pass
+STU0470,Data Structures,7,20,43,63,B+,Pass
+STU0470,Python Programming,7,24,35,59,B,Pass
+STU0471,Database Management Systems,6,26,40,66,B+,Pass
+STU0471,Probability & Statistics,6,22,40,62,B+,Pass
+STU0472,Python Programming,5,25,29,54,B,Pass
+STU0472,Data Structures,5,19,37,56,B,Pass
+STU0473,Database Management Systems,7,30,42,72,A,Pass
+STU0473,Computer Networks,7,25,44,69,B+,Pass
+STU0474,Operating Systems,1,20,31,51,B,Pass
+STU0474,Database Management Systems,1,30,29,59,B,Pass
+STU0475,Operating Systems,8,24,26,50,B,Pass
+STU0475,Database Management Systems,8,22,35,57,B,Pass
+STU0476,Database Management Systems,3,25,33,58,B,Pass
+STU0476,Data Structures,3,29,46,75,A,Pass
+STU0477,Data Structures,6,33,48,81,A+,Pass
+STU0477,Probability & Statistics,6,31,35,66,B+,Pass
+STU0478,Python Programming,2,24,29,53,B,Pass
+STU0478,Artificial Intelligence,2,23,34,57,B,Pass
+STU0479,Machine Learning,7,24,41,65,B+,Pass
+STU0479,Data Structures,7,30,45,75,A,Pass
+STU0480,Probability & Statistics,4,21,28,49,C,Pass
+STU0480,Machine Learning,4,34,53,87,A+,Pass
+STU0481,Machine Learning,2,24,45,69,B+,Pass
+STU0481,Probability & Statistics,2,22,27,49,C,Pass
+STU0482,Computer Networks,3,22,36,58,B,Pass
+STU0482,Data Structures,3,24,44,68,B+,Pass
+STU0483,Data Structures,2,23,30,53,B,Pass
+STU0483,Artificial Intelligence,2,29,47,76,A,Pass
+STU0484,Probability & Statistics,1,21,32,53,B,Pass
+STU0484,Machine Learning,1,21,43,64,B+,Pass
+STU0485,Database Management Systems,5,29,48,77,A,Pass
+STU0485,Data Structures,5,29,46,75,A,Pass
+STU0486,Machine Learning,3,28,53,81,A+,Pass
+STU0486,Probability & Statistics,3,23,36,59,B,Pass
+STU0487,Data Structures,8,25,26,51,B,Pass
+STU0487,Machine Learning,8,24,26,50,B,Pass
+STU0488,Computer Networks,4,21,28,49,C,Pass
+STU0488,Database Management Systems,4,23,50,73,A,Pass
+STU0489,Machine Learning,5,15,23,38,F,Fail
+STU0489,Python Programming,5,18,28,46,C,Pass
+STU0490,Machine Learning,4,30,46,76,A,Pass
+STU0490,Artificial Intelligence,4,30,40,70,A,Pass
+STU0491,Digital Electronics,6,20,35,55,B,Pass
+STU0491,Microprocessors,6,20,24,44,C,Pass
+STU0492,Microprocessors,6,11,37,48,C,Fail
+STU0492,Digital Electronics,6,21,25,46,C,Pass
+STU0493,Communication Systems,4,27,43,70,A,Pass
+STU0493,Signals & Systems,4,31,44,75,A,Pass
+STU0494,Database Management Systems,7,33,39,72,A,Pass
+STU0494,Machine Learning,7,29,40,69,B+,Pass
+STU0495,Communication Systems,4,26,54,80,A+,Pass
+STU0495,Digital Electronics,4,26,54,80,A+,Pass
+STU0496,Artificial Intelligence,1,29,34,63,B+,Pass
+STU0496,Python Programming,1,25,44,69,B+,Pass
+STU0497,Database Management Systems,5,27,31,58,B,Pass
+STU0497,Machine Learning,5,23,36,59,B,Pass
+STU0498,Python Programming,7,20,47,67,B+,Pass
+STU0498,Data Structures,7,25,33,58,B,Pass
+STU0499,Database Management Systems,2,14,30,44,C,Fail
+STU0499,Probability & Statistics,2,13,14,27,F,Fail
+STU0500,Data Structures,4,27,32,59,B,Pass
+STU0500,Artificial Intelligence,4,21,42,63,B+,Pass
+STU0501,Communication Systems,7,22,26,48,C,Pass
+STU0501,Digital Electronics,7,20,31,51,B,Pass
+STU0502,Web Technologies,5,32,50,82,A+,Pass
+STU0502,Software Engineering,5,31,47,78,A,Pass
+STU0503,Computer Networks,7,20,26,46,C,Pass
+STU0503,Web Technologies,7,21,33,54,B,Pass
+STU0504,Machine Learning,6,9,18,27,F,Fail
+STU0504,Data Structures,6,14,17,31,F,Fail
+STU0505,Machine Learning,5,19,33,52,B,Pass
+STU0505,Python Programming,5,30,32,62,B+,Pass
+STU0506,Digital Electronics,4,38,60,98,O,Pass
+STU0506,Signals & Systems,4,30,60,90,O,Pass
+STU0507,Machine Learning,7,27,44,71,A,Pass
+STU0507,Database Management Systems,7,29,42,71,A,Pass
+STU0508,Web Technologies,3,23,32,55,B,Pass
+STU0508,Computer Networks,3,25,39,64,B+,Pass
+STU0509,Python Programming,6,30,44,74,A,Pass
+STU0509,Artificial Intelligence,6,30,31,61,B+,Pass
+STU0510,Database Management Systems,3,21,23,44,C,Fail
+STU0510,Data Structures,3,19,38,57,B,Pass
+STU0511,Computer Networks,5,17,28,45,C,Pass
+STU0511,Operating Systems,5,18,19,37,F,Fail
+STU0512,Software Engineering,5,28,34,62,B+,Pass
+STU0512,Web Technologies,5,24,44,68,B+,Pass
+STU0513,Data Structures,4,20,32,52,B,Pass
+STU0513,Database Management Systems,4,25,40,65,B+,Pass
+STU0514,Probability & Statistics,7,14,18,32,F,Fail
+STU0514,Machine Learning,7,17,20,37,F,Fail
+STU0515,Data Structures,3,25,32,57,B,Pass
+STU0515,Database Management Systems,3,16,21,37,F,Fail
+STU0516,Computer Networks,5,20,33,53,B,Pass
+STU0516,Data Structures,5,24,44,68,B+,Pass
+STU0517,Probability & Statistics,4,8,11,19,F,Fail
+STU0517,Data Structures,4,22,32,54,B,Pass
+STU0518,Microprocessors,4,22,43,65,B+,Pass
+STU0518,Signals & Systems,4,25,36,61,B+,Pass
+STU0519,Computer Networks,4,21,36,57,B,Pass
+STU0519,Database Management Systems,4,20,34,54,B,Pass
+STU0520,Software Engineering,1,27,38,65,B+,Pass
+STU0520,Web Technologies,1,31,45,76,A,Pass
